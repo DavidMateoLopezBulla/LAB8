@@ -20,11 +20,11 @@ FDC 4877
 ### DIAGRAMAS
 #### CIRCUITO 1:
 
-
+![C2](https://user-images.githubusercontent.com/76136485/112610061-45edad00-8dea-11eb-81da-63131ed24697.png)
 
 #### CIRCUITO 2:
 
-
+![C1](https://user-images.githubusercontent.com/76136485/112610063-46864380-8dea-11eb-8089-4f2d043107c8.png)
 
 #### CAPACITORES
 
