@@ -91,6 +91,35 @@ FDC 4877
 
 ![Tabla Reactancia](https://user-images.githubusercontent.com/76136485/112610919-37ec5c00-8deb-11eb-8ba7-e0e0bf46735a.png)
 
+#### TABLA CIRCUITO 1 - CÁLCULOS TEÓRICOS:
+
+![Tabla circuitos 1_Calculos teoricos](https://user-images.githubusercontent.com/76136485/112611684-248dc080-8dec-11eb-979b-911017ef46f2.png)
+
+#### TABLA CIRCUITO 2 - CÁLCULOS TEÓRICOS:
+
+![Tabla circuito 2_calculos teoricos](https://user-images.githubusercontent.com/76136485/112611695-28b9de00-8dec-11eb-8fac-29609804517a.png)
+
+
+### 9.5. PREGUNTAS
+
+
+1.- ¿Cómo se comporta la bobina y el capacitador en corriente continua (cero Hz)?
+
+En corriente continua el capacitor se carga completamente y se comporta como un circuito abierto, por tanto, su voltaje resultante es cero. El inductor en corriente continua al cargarse completamente se comporta como un corto circuito, quiere decir que se mantiene en serie razón por la cual el voltaje en este segmento es igual a cero. 
+
+2.- ¿Cómo se comporta la bobina y el capacitador en corriente alterna?
+
+En corriente alterna el capacitor almacena voltaje un tiempo determinado que al completar su carga dejara de pasar corriente, por tanto, posee una frecuencia distinta de cero. El inductor en corriente alterna almacena corriente eléctrica en un tiempo determinado que al completarse su carga no existirá caída de tensión. Ambos tendrán una impedancia equivalente a la resistencia en DC. 
+
+3.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitadores de valores distintos?
+
+Los valores que tendrán la corriente y el voltaje variarían, sin embargo, el circuito seguiría teniendo el mismo comportamiento debido a la conexión en paralelo de la bobina o capacitador, así mismo la relación proporcional al cambio de frecuencia se mantendrá ya que es característica del elemento y es independiente de la magnitud inductiva o capacitiva. 
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Son los valores que nos brinda el multímetro dándonos facilidad para realizar cálculos manuales, también llamados RMS son el valor que tendría una corriente continua si produjera la misma potencia que dicha corriente alterna, cuando se le aplica a una misma resistencia.
+
+
 ### LISTA DE COMPONENTES
 ![COMPONENTES](https://user-images.githubusercontent.com/76136049/112573101-94cf1e80-8db9-11eb-8c5a-b0f8fd40f463.PNG)
 
