@@ -70,6 +70,19 @@ FDC 4877
 
 ![D5](https://user-images.githubusercontent.com/76136485/112608394-4422ea00-8de8-11eb-8b78-8cb506cc8717.png)
 
+
+### Análisis de resultados
+
+1.	Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+#### TABLA CIRCUITO 1:
+
+#### TABLA REACTANCIA-CIRCUITO 1:
+
+#### TABLA CIRCUITO 2:
+
+#### TABLA REACTANCIA-CIRCUITO 2:
+
 ### LISTA DE COMPONENTES
 ![COMPONENTES](https://user-images.githubusercontent.com/76136049/112573101-94cf1e80-8db9-11eb-8c5a-b0f8fd40f463.PNG)
 
