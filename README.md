@@ -21,9 +21,8 @@ FDC 4877
 - Comparar resultados teóricos y experimentales.
 
 ### MARCO TEÓRICO 
-
-
-
+![1](https://user-images.githubusercontent.com/76136049/112572797-f6db5400-8db8-11eb-8ad1-32b0b7863be0.png)
+![2](https://user-images.githubusercontent.com/76136049/112572801-f773ea80-8db8-11eb-92bb-ef58c143e16d.png)
 ### DIAGRAMAS
 
 
