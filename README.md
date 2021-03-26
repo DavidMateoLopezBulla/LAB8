@@ -7,18 +7,12 @@ FDC 4877
 ----------------
 
 ### OBJETIVOS
-#### Objetivo Generales
-
-- Investigar la aplicación en la ingeniería relacionado a los contenidos de funciones de variable compleja. 
-- Comprender la terminología del ángulo de fase en el estudio de circuitos de corriente alterna.
-
+#### Objetivo General
+-   Instruirse en el uso de bobinas y capacitores en circuitos eléctricos.
 #### Objetivos específicos 
-
-- Comprender la relación entre inductancia y reactancia capacitiva de forma fasorial. 
-- Representar apropiadamente una señal senoidal, de forma fasorial. 
-- Describir el plano complejo y mostrar cada uno de sus puntos. 
-- Examinar los números imaginarios.
-- Comparar resultados teóricos y experimentales.
+- Constatar el funcionamiento de las bobinas y capacitores en circuitos DC y AC.
+- Comprobar el funcionamiento de bobinas y capacitores combinados.
+- Formarse con respecto al uso de instrumentos de medida y simuladores.
 
 ### MARCO TEÓRICO 
 ![1](https://user-images.githubusercontent.com/76136049/112572797-f6db5400-8db8-11eb-8ad1-32b0b7863be0.png)
