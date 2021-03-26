@@ -121,10 +121,12 @@ Son los valores que nos brinda el multímetro dándonos facilidad para realizar 
 
 
 ### LISTA DE COMPONENTES
+
 ![COMPONENTES](https://user-images.githubusercontent.com/76136049/112573101-94cf1e80-8db9-11eb-8c5a-b0f8fd40f463.PNG)
 
 ### EXPLICACIÓN
 
+[Link Video](https://youtu.be/rGZyYzdGYcU)
 
 ### CONCLUSIONES
 
