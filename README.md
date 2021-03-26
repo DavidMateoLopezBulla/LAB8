@@ -42,3 +42,5 @@ FDC 4877
 ### BIBLIOGRAFÍA
 
 - Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+- Capacitores en Serie. (2020, 8 julio). Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/capacitores-en-serie/
+- P., A. (s. f.). Bobinas o inductores en serie y paralelo. Electrónica Unicrom. Recuperado 25 de marzo de 2021, de https://unicrom.com/bobinas-o-inductores-en-serie-y-paralelo/
