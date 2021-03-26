@@ -18,6 +18,57 @@ FDC 4877
 ![1](https://user-images.githubusercontent.com/76136049/112572797-f6db5400-8db8-11eb-8ad1-32b0b7863be0.png)
 ![2](https://user-images.githubusercontent.com/76136049/112572801-f773ea80-8db8-11eb-92bb-ef58c143e16d.png)
 ### DIAGRAMAS
+#### CIRCUITO 1:
+
+
+
+#### CIRCUITO 2:
+
+
+
+#### CAPACITORES
+
+- PARA FRECUENCIA: 10 Hz
+
+![D6](https://user-images.githubusercontent.com/76136485/112608395-4422ea00-8de8-11eb-85bf-a241e9710320.png)
+
+- PARA FRECUENCIA: 50 Hz
+
+![D7](https://user-images.githubusercontent.com/76136485/112608385-41c09000-8de8-11eb-804d-bc02d4ecb2e0.png)
+
+- PARA FRECUENCIA: 100 Hz
+
+![D8](https://user-images.githubusercontent.com/76136485/112608387-42592680-8de8-11eb-8f3b-a2235f935fca.png)
+
+- PARA FRECUENCIA: 500 Hz
+
+![D10](https://user-images.githubusercontent.com/76136485/112608389-42f1bd00-8de8-11eb-9c98-d0e8ff65bd67.png)
+
+- PARA FRECUENCIA: 1000 Hz
+
+![D9](https://user-images.githubusercontent.com/76136485/112608388-42f1bd00-8de8-11eb-8ce6-2930b4db8a58.png)
+
+#### INDUCTORES
+
+- PARA FRECUENCIA: 10 Hz
+
+![D1](https://user-images.githubusercontent.com/76136485/112608390-42f1bd00-8de8-11eb-87fb-0f2d6a16bba8.png)
+
+- PARA FRECUENCIA: 50 Hz
+
+![D2](https://user-images.githubusercontent.com/76136485/112608391-438a5380-8de8-11eb-8f5e-1e13698758c8.png)
+
+- PARA FRECUENCIA: 100 Hz
+
+![D3](https://user-images.githubusercontent.com/76136485/112608392-438a5380-8de8-11eb-8b33-1f00813c0fc1.png)
+
+- PARA FRECUENCIA: 500 Hz
+
+![D4](https://user-images.githubusercontent.com/76136485/112608393-438a5380-8de8-11eb-900d-3025039fddc1.png)
+
+- PARA FRECUENCIA: 1000 Hz
+
+![D5](https://user-images.githubusercontent.com/76136485/112608394-4422ea00-8de8-11eb-8b78-8cb506cc8717.png)
 
 ### LISTA DE COMPONENTES
 ![COMPONENTES](https://user-images.githubusercontent.com/76136049/112573101-94cf1e80-8db9-11eb-8c5a-b0f8fd40f463.PNG)
