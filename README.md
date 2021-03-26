@@ -130,10 +130,9 @@ Son los valores que nos brinda el multímetro dándonos facilidad para realizar 
 
 ### CONCLUSIONES
 
-- Se intenta ofrecer una breve introducción al uso de fasores, relacionados con la electricidad y la electrónica. 
-- Observar la realización de fasores que se puede simplificar en las expresiones complejas, como las ecuaciones diferenciales, también se pueden calcular mediante cálculos simples.
-- Para sumas y restas de fasores en números reales e imaginaros en un plano complejo que esta dividido entre “j” y “x”, de forma rectangulares
-- En referencia a la multiplicación y división conformada por números reales y su respectivo ángulo, siendo este de manera polar.  
+- Tanto el indcutor como el capacitor solo funcionan en cooriente alterna, en corriente continua no funcionan es decir tienen un voltaje de cero. 
+- El multimetro como el osciloscopio tienen un mismo propósito sin embargo uno solo muestra los valores numéricos y el otro nos da valores gráficos.
+- El inductor como el capacitor tienen un mismo próposito almacenar energía, la diferencia radica en que el capacitor almacena volataje y el inductor corriente. 
 
 ### BIBLIOGRAFÍA
 
