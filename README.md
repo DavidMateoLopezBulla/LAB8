@@ -77,11 +77,19 @@ FDC 4877
 
 #### TABLA CIRCUITO 1:
 
+![Tabla circuito](https://user-images.githubusercontent.com/76136485/112610924-3884f280-8deb-11eb-99b2-041aa504f30a.png)
+
 #### TABLA REACTANCIA-CIRCUITO 1:
+
+![Tabla Reactancia 1](https://user-images.githubusercontent.com/76136485/112610920-37ec5c00-8deb-11eb-9e13-b0ba330b98f4.png)
 
 #### TABLA CIRCUITO 2:
 
+![Tabla circuito 2](https://user-images.githubusercontent.com/76136485/112610903-34f16b80-8deb-11eb-9b51-95f0341e8d8b.png)
+
 #### TABLA REACTANCIA-CIRCUITO 2:
+
+![Tabla Reactancia](https://user-images.githubusercontent.com/76136485/112610919-37ec5c00-8deb-11eb-8ba7-e0e0bf46735a.png)
 
 ### LISTA DE COMPONENTES
 ![COMPONENTES](https://user-images.githubusercontent.com/76136049/112573101-94cf1e80-8db9-11eb-8c5a-b0f8fd40f463.PNG)
