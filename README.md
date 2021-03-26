@@ -71,7 +71,7 @@ FDC 4877
 ![D5](https://user-images.githubusercontent.com/76136485/112608394-4422ea00-8de8-11eb-8b78-8cb506cc8717.png)
 
 
-### Análisis de resultados
+### ANÁLISIS DE RESULTADOS:
 
 1.	Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
@@ -103,7 +103,7 @@ FDC 4877
 ### 9.5. PREGUNTAS
 
 
-1.- ¿Cómo se comporta la bobina y el capacitador en corriente continua (cero Hz)?
+*1.- ¿Cómo se comporta la bobina y el capacitador en corriente continua (cero Hz)?*
 
 En corriente continua el capacitor se carga completamente y se comporta como un circuito abierto, por tanto, su voltaje resultante es cero. El inductor en corriente continua al cargarse completamente se comporta como un corto circuito, quiere decir que se mantiene en serie razón por la cual el voltaje en este segmento es igual a cero. 
 
