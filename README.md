@@ -1,6 +1,6 @@
 # LAB 8
 Mariú Correa      David López
-## INFORME LABORATORIO 7
+## INFORME LABORATORIO 8
 FDC 4877
 - Mariú Correa
 - David López
